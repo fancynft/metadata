@@ -1,0 +1,12 @@
+{
+  "name": "FANCY NFT Heroes S1 #5",
+  "description": "**FANCY NFT Heroes S1** \n\nToken description",
+  "external_link": "https://www.fancynft.io/",
+  "image": "https://avatars.githubusercontent.com/u/29225325",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Heroes S1"
+    }
+  ]
+}
